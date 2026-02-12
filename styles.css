@@ -1,0 +1,40 @@
+.hero {
+  background-color: #f8f9fa;
+  padding: 60px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3em;
+  margin: 0;
+  color: #343a40;
+}
+
+.hero p {
+  font-size: 1.25em;
+  color: #6c757d;
+}
+
+.button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 1em;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
